@@ -1,0 +1,45 @@
+.Chocolate{
+  background-image: url("images/chocolate.jpg");
+  background-size: 100% 100%;
+     background-repeat: no-repeat;
+}
+.Cookies{
+  background-image: url("images/cookies.jpg");
+  background-size: 100% 100%;
+     background-repeat: no-repeat;
+}
+.Strawberry{
+  background-image: url("images/strawberry.jpg");
+  background-size: 100% 100%;
+     background-repeat: no-repeat;
+}
+.Vanilla{
+  background-image: url("images/vanilla.jpg");
+  background-size: 100% 100%;
+     background-repeat: no-repeat;
+}
+
+.BirthDay{
+  background-image: url("images/birthday.jpg");
+  background-size: 100% 100%;
+     background-repeat: no-repeat;
+
+}
+th{
+    background-color: #3462ad;
+    color: white;
+     border: 1px solid #3462ad;
+}
+
+td{
+    background-color: #AFEDE9;
+    color: black;
+     border: 1px solid #black;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+td{height: }
